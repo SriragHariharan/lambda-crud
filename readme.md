@@ -1,7 +1,3 @@
-Sure! Here’s a cleaner and more organized version of the `README.md` for setting up AWS Lambda both in AWS and locally:
-
----
-
 # AWS Lambda
 
 AWS Lambda is a serverless compute service that enables you to run code in response to events without the need to provision or manage servers. Lambda automatically scales your applications and charges you only for the compute time consumed.
